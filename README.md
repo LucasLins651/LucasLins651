@@ -26,7 +26,7 @@ Sou a Lucas Lins, tenho 17 anos e sou de São Paulo. Estou no terceiro ano do en
             src="https://custom-icon-badges.demolab.com/badge/Github-55960c?style=for-the-badge&logoColor=white&logo=github"
         />
     </a> 
-    <a href="www.linkedin.com/in/lucaslinscruz">
+    <a href="https://www.linkedin.com/in/lucaslinscruz">
         <img 
             alt="conta linkedin" 
             title="Perfil LinkedIn" 
